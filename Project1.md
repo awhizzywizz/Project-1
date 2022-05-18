@@ -4,7 +4,7 @@
 
 ###Tasks that have been completed with the screenshots 
 1.Sudo Apt update completed 
-![Sudo apt update screenshot](/Project-1/images/Capture1sudoapt.PNG)
+![Sudo apt update screenshot](/images/Capture1sudoapt.PNG)
 
 
 
