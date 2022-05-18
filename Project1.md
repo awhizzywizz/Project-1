@@ -13,7 +13,7 @@
 ![Sudo apt update screenshot](/images/Capture3.PNG)
 
 4.Finishing apache with a prompt for restarting 
-![Sudo apt update screenshot](/images/Capture4. PNG)
+![Sudo apt update screenshot](/images/Capture4.PNG)
 
 5.Confirming apache has been installed 
 ![Sudo apt update screenshot](/images/Capture5.PNG)
