@@ -30,7 +30,7 @@
 9.Installing mysql server 
 ![Sudo apt update screenshot](/images/Capture8.PNG)
 
-10.Resolving the issue with mysql( 3 Screenshots) 
+10.Resolving the issue with mysql( 4 Screenshots) 
 ![Sudo apt update screenshot](/images/Capture11.PNG)
 ![Sudo apt update screenshot](/images/Capture12.PNG)
 ![Sudo apt update screenshot](/images/Capture13.PNG)
@@ -47,13 +47,13 @@
 ![Sudo apt update screenshot](/images/Capture22.PNG)
 
 14.Sample first website with the ip address
-![Sudo apt update screenshot](/images/Capture23 .PNG)
+![Sudo apt update screenshot](/images/Capture23.PNG)
 
 15.Sample dns resolving 
 ![Sudo apt update screenshot](/images/Capture24.PNG)
 
 16.Setting up php enviroment 
-![Sudo apt update screenshot](/images/Capture24php .PNG)
+![Sudo apt update screenshot](/images/Capture24php.PNG)
 
 17 Modify php directory 
 ![Sudo apt update screenshot](/images/Capture25.PNG)
