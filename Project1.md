@@ -28,7 +28,7 @@
 ![Sudo apt update screenshot](/images/Capture8.PNG)
 
 9.Installing mysql server 
-![Sudo apt update screenshot](/images/Capture8.PNG)
+Ran the Query to installing mysql server and faced some challenges along the way 
 
 10.Resolving the issue with mysql( 4 Screenshots) 
 ![Sudo apt update screenshot](/images/Capture11.PNG)
