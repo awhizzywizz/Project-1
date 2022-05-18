@@ -5,13 +5,12 @@
 ### Tasks that have been completed with the screenshots 
 1.Sudo Apt update completed 
 ![Sudo apt update screenshot](/images/Capture1sudoapt.PNG)
-
 2. Sudo apt completed 
 ![Sudo apt update screenshot](/images/Capture2.PNG)
 3. Installing apache 
 ![Sudo apt update screenshot](/images/Capture3.PNG)
 4. Finishing apache with a prompt for restarting 
-![Sudo apt update screenshot](/images/Capture4.PNG)
+![Sudo apt update screenshot](/images/Capture4. PNG)
 5. Confirming apache has been installed 
 ![Sudo apt update screenshot](/images/Capture5.PNG)
 6. Confirming port 80 is working 
@@ -35,11 +34,11 @@
 ![Sudo apt update screenshot](/images/Capture21.PNG)
 ![Sudo apt update screenshot](/images/Capture22.PNG)
 14.Sample first website with the ip address
-![Sudo apt update screenshot](/images/Capture23.PNG)
+![Sudo apt update screenshot](/images/Capture23 .PNG)
 15.Sample dns resolving 
 ![Sudo apt update screenshot](/images/Capture24.PNG)
-16. Setting up php enviroment 
-![Sudo apt update screenshot](/images/Capture24php.PNG)
+16.Setting up php enviroment 
+![Sudo apt update screenshot](/images/Capture24php .PNG)
 17 Modify php directory 
 ![Sudo apt update screenshot](/images/Capture25.PNG)
 18.Php installed 
@@ -48,7 +47,7 @@
 ![Sudo apt update screenshot](/images/Capture27.PNG)
 20. Php page removed for security purposes 
 ![Sudo apt update screenshot](/images/Capture29.PNG)
-21.proof that the php page has been removed 
+21.proof that the php page has been removed
 ![Sudo apt update screenshot](/images/Capture28.PNG)
 
 
